@@ -1,5 +1,14 @@
+.principal{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .contenedor{
-  background-color: rgb(6, 39, 8);
-  color: rgb(230, 80, 11);
+  background-color: rgb(17, 63, 20);
+  color: rgb(235, 179, 105);
+  padding: 5%;
+  border-radius: 15%;
+
 }
 
